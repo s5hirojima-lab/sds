@@ -1,0 +1,9 @@
+{
+    "major": 1,
+    "minor": 0,
+    "patch": 0,
+    "build": 1,
+    "download_url": "https://github.com/YOUR_USERNAME/YOUR_REPO/releases/latest/download/Slikon.exe",
+    "changelog": "- Initial release\\n- Aimbot added\\n- Silent aim added\\n- ESP system",
+    "force_update": false
+}
